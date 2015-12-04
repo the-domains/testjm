@@ -1,7 +1,7 @@
 name: testjm
 favicon: null
-layout_spectrum: 0.024158630520105362
-typography_spectrum: 0.508525587618351
+layout_spectrum: 1
+typography_spectrum: 0.27068
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#ffffff'
+    - '#0a0a08'
+    - '#515560'
+    - '#828886'
+    - '#b1bfca'
   brandStrength: 0.09044040273874998
   lightness: 0.7307723693083972
   saturation: 0.1783299962989986
